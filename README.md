@@ -174,6 +174,13 @@ Running the notebook produces:
 ├── insurance.csv                                      # Input dataset (user-provided)
 └── README.md                                          # This file
 ```
+## Visualization
+
+<img width="993" height="626" alt="image" src="https://github.com/user-attachments/assets/05912039-4265-4e8c-9669-7eba18a7b191" />
+<img width="573" height="501" alt="image" src="https://github.com/user-attachments/assets/980d622a-a7c5-4a3f-bd75-9883a00a10da" />
+<img width="439" height="381" alt="image" src="https://github.com/user-attachments/assets/2342212a-a8ba-48da-914c-ec2ce1dd8c7d" />
+<img width="692" height="1003" alt="image" src="https://github.com/user-attachments/assets/6e9a4459-2fae-4ab7-9797-6afffa0b2eea" />
+
 
 ---
 
